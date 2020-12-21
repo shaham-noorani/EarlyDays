@@ -1,6 +1,6 @@
 baseurl: "/"
 title: My Blog
-theme: hugo-PaperMod
+theme: ghostwriter
 
 author:
   name: Shaham Noorani
