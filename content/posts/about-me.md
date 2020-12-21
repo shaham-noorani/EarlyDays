@@ -6,6 +6,7 @@ description: "Article about me"
 tags: ["about me", "software engineering", "self development", "college student"]
 aliases: ["about-me"]
 ShowToc: true
+TocOpen: true
 weight: 2
 ---
 
@@ -24,7 +25,7 @@ My freshman year I signup for **AP Computer Science**, an intro to computer scie
 
 Now this may not have been my dream "software engineering internship": jam packed with writing production code and working with a professional dev team; but it was definetley a turing point in my life. It was during this summer that I finally realized that coding could be a proffession, and that I wanted everything to do with it.
 
-Nearing the end of this internship, I was spending some time in downtown Austin when rain started coming down from nowhere. Seeking shelter, I hurried to a nearby event center. As I walked in through the 30 ft tall doors, I saw a man in a blue polo reading a book, sitting behind a sort of registration area. I asked him what he was doing and his response was, "well, I work for a company called Auction Source and we're helping XYZ orginzation run this event today." Being the incredibly bold 16 year-old I was at the time, I asked if they were hiring. Not if they were hiring software engineers, or part-timers, or interns: just if they were hiring. But just as luck would have it, there comes swooping in the VP of the company, bringing with him a, "hell yeah we are!"
+Nearing the end of this internship, I was spending some time in downtown Austin when rain started coming down from nowhere. Seeking shelter, I hurried to a nearby event center. As I walked in through the 30 ft tall doors, I saw a man in a blue polo reading a book, sitting behind a table with a sign that read "Check-in". I asked him what he was doing and his response was, "well, I work for a company called Auction Source and we're helping XYZ orginzation run this event today." Being the incredibly bold 16 year-old I was at the time, I asked if they were hiring. Not if they were hiring software engineers, or part-timers, or interns: just if they were hiring. But just as luck would have it, there comes swooping in the VP of the company, bringing with him a, "hell yeah we are!"
 
 After a pair of phone interviews and one of the in-person variety, I was hired on a part-time/contractor basis as a "technician." My job was to arrive at a customer's (most often a charity organization) event with a boat load of MacBooks and iPads in tow, setup a registration area, and teach their staff/volunteers how to use our platform. Then throughout the night, my role was more of damage control—meaning that on a perfect night I would barely move a muscle until the end of the night. Thankfully, there were no "perfect nights."
 
