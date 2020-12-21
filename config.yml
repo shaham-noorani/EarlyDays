@@ -34,7 +34,7 @@ params:
     Title: "Hi there \U0001F44B"
     Content: >
       Welcome to my blog where I share my hot-takes on **productivity**, the world of **software 
-      engineering**, and whatever else **I feel like talking about**, as well as events from **my day-to-day**.
+      engineering**, and whatever else **I feel like talking about**, as well as events from my **day-to-day**.
 
   socialIcons:
     - name: linkedin
