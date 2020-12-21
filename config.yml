@@ -115,16 +115,10 @@ params:
       - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
 
   socialIcons:
-    - name: twitter
-      url: "#"
-    - name: stackoverflow
-      url: "#"
-    - name: codepen
-      url: "#"
     - name: linkedin
-      url: "#"
+      url: "https://www.linkedin.com/in/shahamn/"
     - name: github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://github.com/shahamn"
 
 taxonomies:
   category: categories
