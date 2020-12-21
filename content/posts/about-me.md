@@ -8,7 +8,10 @@ aliases: ["about-me"]
 weight: 2
 ---
 
+<!-- blurb -->
 *Brief introduction into who I am, where my experiences and passions lie, and what the purpose of this blog is.*
+
+<!--more-->
 
 ## Humble Beginnings
 
