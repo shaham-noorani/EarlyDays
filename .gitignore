@@ -1,0 +1,8 @@
+# os
+.DS_Store
+
+# sass
+node_modules/
+
+# yarn
+yarn-error.log
