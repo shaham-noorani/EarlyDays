@@ -41,6 +41,8 @@ params:
       url: "https://www.linkedin.com/in/shahamn/"
     - name: github
       url: "https://github.com/shahamn"
+    - name: drive
+      url: "https://drive.google.com/file/d/1HdajkjNnWgyAM9TSPyZzfV1rot6PwwQl/view?usp=sharing"
 
 taxonomies:
   category: categories
