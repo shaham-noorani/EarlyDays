@@ -1,6 +1,6 @@
 baseurl: "/"
 title: My Blog
-theme: ghostwriter
+theme: hugo-PaperMod
 
 author:
   name: Shaham Noorani
@@ -22,18 +22,3 @@ params:
 
 permalinks:
   post: "/:filename/"
-
-menu:
-  main:
-    - name: Blog
-      url: /
-      weight: 1
-    - name: Projects
-      url: /project/
-      weight: 2
-    - name: Contact
-      url: /page/contact/
-      weight: 3
-    - name: About
-      url: /page/about/
-      weight: 4
