@@ -47,16 +47,26 @@ I might suck at coding. Now, don't get me wrong. I'm a quick learner and my love
 
 My next couple of assignments were a bit more sporatic: fixed some css here, write some integration tests here. One of the cooler ones was to implement this technology called [Swagger](https://swagger.io/) to automatically document, create a library for, and deploy one of our API's. There were also a bunch of fun non-coding things that happened. A go-karting trip with the entire dev team at the Circuit of the America's Track in Austin, weekly paid lunch with the admins, 1:1's with my boss where we talked about how I could improve as a developer. This internship was one of the most enjoyable times in my life and this summer is one that I'll never forget. 
 
+Sadly, once the internship ended, I had to go back to school for my final year in high school. The beginning of the year started off with college apps. I applied to 8 schools. Seven rejections. So now I go to the Texas A&M University. At first, I was a little dissapointed. I thought I'd be going to Carnegie Mellon, UIUC, or *at least* UT. I think the main reason I was admitted was that my grades were...less than ideal. I guess skipping class to work part-time at a software company is *no bueno*. Regardless, I don't regret it. I enjoyed my time in high school and I love A&M. 
+
+The remainder of the school year was pretty unnoteworthy. I was elected as the "Araneator" or web-master of my high school latin club. Here's the [site](https://whslatinclub.com)! I went to the gym every day so now I'm super jacked. The company that I had been working at for the past two years shut-down due to the pandemic. I worked on a couple of software projects here and there. And I confessed my feelings to the girl that I had liked for the past 3 years: did not go well. But jokes on her—now I write a blog on the internet that no one reads... 
+
+Sadly, due to the pandemic, I was unable to do the one thing I had been looking forward to the most for the whole year: take part in another internship. But I found a better use of my time: all 300 episodes of Gintama *:)*. I also worked on a small webapp with a couple of my friends: you can find the repo [here](https://github.com/TheProjectHub/ProjectHub). Near the end of the summer, I had to take a Math Placement Exam for A&M. Fun fact: I stopped taking math classes my sophomore year of high school, when I suffered through Algebra II. Not because of how hard it was, but because of how bored I was in it. So you could say that I was pretty scared about how I would do. However, after a couple dozen hours of Khanacademy and practice tests, I got a 30/33. I needed a 22/30 to be placed in Calculus I, which was my goal. Lesson of the day: don't over prepare. 
+
+A couple of weeks after the MPE debacle, I moved into my dorm at A&M as a general engineering student. I took a pretty easy course-load my first semester and finished with a 3.5. During the school year, I spent most of my time hanging out with my friends, working at the newest company on the list: Codegalaxy, as a coding instructor for elementary-through-high-school students, applying to internships, and hating myself—but I'll save that story for another post. I played on the club tennis team and for a breif period of time, was part of the dev team for a A&M student project called [RevRegistration](https://revregistration.com/). Near the end of the semester, I met a cute girl in the laundry room and started dating her. And during the Winter Break following my first successful semester at A&M, I'm starting this blog!
+
 ---
 
 # Interests and Expertise
 
-lmao
+Let's start with what I'm interested in. As you can probably tell from my [Humble Beginnings](/posts/about-me/#humble-beginnings), I love to code. I find it amazing how much of an impact one developer can make, and how quickly they can accrue the needed skills. I've also always had a great love for self-improvement and productivity. I'm always looking for ways to better myself and I've scoured the internet far and wide for methods for doing so. I've recently taken an interest in Entreprenuership and hope to take you all along that ride very soon!
+
+If I had to say I was skilled in certain hard skills, they would be: development in Python, Java, Vue, and Node. In terms of soft skills, I'm a great team-player (mostly because I love working with other people), I'm a natural leader, I'm very good at critical thinking, and I'm a very effective communicator (as you can probably tell from this blog, I'm no introvert). 
 
 ---
 
 # Goal of this Blog
 
-lmao
+Now, you may be asking yourself, "Why is this dude writing a blog?" or "What can I, as a reader, get out of this?". To answer the first, I feel as though
 
 ---
