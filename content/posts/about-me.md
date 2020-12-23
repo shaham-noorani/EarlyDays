@@ -1,7 +1,7 @@
 ---
 author: "Shaham Noorani"
 title: "About Me"
-date: "2020-12-20"
+date: "2020-12-23"
 description: "Article about me."
 tags: ["about me"]
 aliases: ["about-me"]
