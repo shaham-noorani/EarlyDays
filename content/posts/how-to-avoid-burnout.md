@@ -21,7 +21,7 @@ In the field of software engineering, being able to learn quickly and keep up wi
 
 I recently tried to deploy an older project of mine with Google Cloud. It's a Vue SPA with a separate Express + MySQL backend. Although this wasn't my first time deploying to GC App Engine, it was my first time doing so with something so complicated. I had also never used Docker before so I was in for a world of hurt. Not to say that a par-level SWE couldn't knock this out in a day or two, but at my level of experience it was a challenge and a half. 
 
-My first approach was to lookup how to deploy my exact stack and copy all the `code blocks` on whatever tutorial popped up first on Google. No way this goes tits up, right? 
+My first approach was to lookup how to deploy my exact stack with GC and copy all of the `code snippets` on whatever tutorial popped up first on Google. No way this goes tits up, right? 
 
 So obviously that didn't work. Having gone through about a dozen YouTube and Medium Tutorials, it was time for Plan B. This involved looking for higher quality tutorials (more recent, clearer instructions, etc. ) even if the stack wasn't exactly the same. But even after a dozen more tutorials, still no luck. At this point I was around 10 hours in and had nothing to show for it. Once I realized this, I gave up.
 
@@ -45,12 +45,16 @@ Okay, so I've given you a couple examples of burnout in my life and described wh
 
 > In positive psychology, a flow state, also known colloquially as being in the zone, is the mental state in which a person performing some activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.
 
-Sounds awesome, right? Right. In my mind, being in a flow state is the polar opposite of feeling burnt out. Instead of feeling like the task you're working on is draining you, it actually gives you the energy to keep going ad infinitum. But how do we get into this goldilocks state of mind? Well, just like the story with the three bears, we need to find something just right. The leading theory in achieving and maintaining flow-state is to reach a balance between challenge and skill in whatever you're doing. This means that just like in the optimal lift in the gym, you do your best work when your skill for something and 
+Sounds awesome, right? Right. In my mind, being in a flow state is the polar opposite of feeling burnt out. Instead of feeling like the task you're working on is draining you, it actually gives you the energy to keep going ad infinitum. But how do we get into this goldilocks state of mind? Well, just like the story of the three bears, we need to find something **just right**. The leading theory in achieving and maintaining flow-state is to reach a balance between challenge and skill in whatever you're doing. This means that just like the optimal pump at the gym, you do your best work when you match your level of adversity for your level of skill. This way, you won't get bored from anything being too easy, but you also won't get tired too quickly because of anything being too hard. I've provided a visual below for where the flow state lies in relation to challenge and skill.
+
+![FlowStateDiagram](../../flowstatediagram.png)
 
 ## Staying Hypocritical
 
-lmao
+Speaking of "too hard", don't be. As a perfectionist, I often aim for the asymptotical upper bound of what's possible instead of a reasonable level of accomplishment. This results in me trying to optimize every minute of my day when creating a routine or getting stuck when writing a function in the pursuit of the best possible implementation. This mindset almost always leads me to destruction and it takes a lot of mental fortitude to set realistic expectations for myself, but I almost always get better results from doing so. 
+
+So before sitting down to get some work done, stay hypocritical and set realistic goals for what you want to get done.
 
 ## Implementing Patience
 
-lmao
+My final method for avoiding burnout involves patience, and lots of it. 
