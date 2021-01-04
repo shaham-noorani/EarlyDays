@@ -8,7 +8,7 @@ aliases: ["how-to-avoid-burnout"]
 ShowToc: true
 TocOpen: false
 enableEmoji: true
-weight: 2
+weight: 1
 ---
 
 <!--blurb-->
@@ -49,7 +49,7 @@ So before sitting down to get some work done, stay hypocritical and set realisti
 
 ## Implementing Patience
 
-My final method for avoiding burnout involves patience, and lots of it. Unless you're eating a scone on a beach somewhere in Italy, instant gratification is hard to come by. Sometimes, even when we've perfectly balanced challenge and skill and set realistic goals for ourselves, a lack of patience causes us to give up at the bottom of the exponential growth curve. We all know that nothing worthwhile in life comes quickly and that success is not something that happens over night, but actually implementing these monikers in our day-to-day is hard. So just remember: even microwaveable dinners take a couple minutes before you can (should) eat them. 
+My final method for avoiding burnout involves patience, and lots of it. Unless you're eating a scone on a beach somewhere in Italy, instant gratification is hard to come by. Sometimes, even when we've perfectly balanced challenge and skill and set realistic goals for ourselves, a lack of patience causes us to give up at the bottom of the exponential growth curve. We all know that nothing worthwhile in life comes quickly and that success is not something that happens over night, but actually implementing these mantras in our day-to-day is hard. So just remember: even microwaveable dinners take a couple minutes before you can (should) eat them. 
 
 # Wrapping-up Our Chipotle Burrito
 

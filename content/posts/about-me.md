@@ -8,7 +8,7 @@ aliases: ["about-me"]
 ShowToc: true
 TocOpen: true
 enableEmoji: true
-weight: 2
+weight: -2
 ---
 
 <!-- blurb -->

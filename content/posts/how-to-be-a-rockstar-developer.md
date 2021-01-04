@@ -8,7 +8,7 @@ aliases: ["how-to-be-a-rockstar-developer"]
 ShowToc: true
 TocOpen: true
 enableEmoji: true
-weight: 2
+weight: -1
 ---
 
 <!-- blurb -->
