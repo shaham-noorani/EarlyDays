@@ -1,6 +1,6 @@
 ---
 author: "Shaham Noorani"
-title: "(Draft) How To Avoid Burnout"
+title: "How To Avoid Burnout"
 date: "2021-01-01"
 description: "Post about how to avoid burnout (flowstate, hypocritically, patience)"
 tags: ["personal-growth"]
@@ -17,17 +17,9 @@ weight: 2
 <!--more-->
 # My Experience with Burnout
 
-In the field of software engineering, being able to learn quickly and keep up with the latest changes in technology is a huge part of the job. Even if you stay at the same company, the opportunity cost of not switching to the latest-and-greatest new technology is massive and never goes away. This is why I've constantly dabbling with the latest frameworks and tools. But just because it's expected of every engineer, doesn't mean it's easy. Going out of your comfort zone and trying completely new things is challenging and takes lots of time and patience. 
+I've experienced burnout in a variety of activities and have generated many unfair stigma as a result. One example is my relationship with Machine Learning. Even though I know that ML is a growing field and that I'll be directly working with it in some capacity in the future, I still get a sour look in my eye whenever it comes up in conversation. This is because the few times I've dabbled with it, I've felt like a 4 year-old trying to make a *Duck Pâté en Croûte* with a spoon and a lighter. 
 
-I recently tried to deploy an older project of mine with Google Cloud. It's a Vue SPA with a separate Express + MySQL backend. Although this wasn't my first time deploying to GC App Engine, it was my first time doing so with something so complicated. I had also never used Docker before so I was in for a world of hurt. Not to say that a par-level SWE couldn't knock this out in a day or two, but at my level of experience it was a challenge and a half. 
-
-My first approach was to lookup how to deploy my exact stack with GC and copy all of the `code snippets` on whatever tutorial popped up first on Google. No way this goes tits up, right? 
-
-So obviously that didn't work. Having gone through about a dozen YouTube and Medium Tutorials, it was time for Plan B. This involved looking for higher quality tutorials (more recent, clearer instructions, etc. ) even if the stack wasn't exactly the same. But even after a dozen more tutorials, still no luck. At this point I was around 10 hours in and had nothing to show for it. Once I realized this, I gave up.
-
-This same thing has happened to me many other times. Once, I was trying to make a sort of "quality of life" chatbot that would help me keep track of homework and assignments. At the time I was 16 and didn't understand what NLP was. Needless to say I was way in over my head and gave up two weeks later. 
-
-Another instance of burnout I had was in the gym. I had just signed my 12 month gym membership and was ready to go. As a sort of "test run", I decided to go on my own one day with the intentions of exercising my "arms." I walked around to every machine, looked at the target muscle group inscribed on each, and gave one a shot of it involved a muscle near my arms (at the time I thought this just meant bi's and tri's). After mindlessly wandering around for an hour and quitting each machine after 5 or 10 reps, I left defeated and embarrassed.  
+I have the same relationship with swimming. Although I wouldn't die without a life jacket in the middle of a kiddie pool, I wouldn't be putting down hot laps back-to-back either. And by that I mean that I have to pull my head up for a few second to breath in and out when I swim instead of being able to turn my head and circulate air into my lungs—like a normal person. But because of the initial difficult I experienced when trying to learn how to swim, I never went back to put in the effort required to gain mastery in the aquatic means of mobility.
 
 # Why Burnout Occurs
 
@@ -35,7 +27,7 @@ With a quick Google search, you can find this definition:
 
 > Burnout is a state of emotional, physical, and mental exhaustion caused by excessive and prolonged stress. It occurs when you feel overwhelmed, emotionally drained, and unable to meet constant demands.
 
-So in layman's terms, "burnout" occurs when the going gets **unbearably** tough and our body/mind can't keep up. In my case, this occurred from me metaphorically slamming my head against a wall and then eventually passion out from blood loss. I like this metaphor because it highlights what I think are the two main causes of burnout: lack of instant gratification and constant overexertion. When you make love to a wall with your forehead in a woodpecker-esque manor, not only is there no sign of progress (save the blood dripping from your head), but the amount of work (not the physics kind) you're putting in is not sustainable for a long period of time. 
+So in layman's terms, "burnout" occurs when the going gets **unbearably** tough and our body/mind can't keep up. In my case, this often occurred from me metaphorically slamming my head against a wall and then eventually passion out from blood loss. I like this metaphor because it highlights what I think are the two main causes of burnout: lack of instant gratification and constant overexertion. When you make love to a wall with your forehead in a woodpecker-esque manner, not only are there no immediate signs of progress (save the blood dripping from your head), but the amount of work (not the physics kind) you're putting in is not sustainable for a long period of time. 
 
 # My 3 Ways of Avoiding Burnout
 
@@ -45,16 +37,22 @@ Okay, so I've given you a couple examples of burnout in my life and described wh
 
 > In positive psychology, a flow state, also known colloquially as being in the zone, is the mental state in which a person performing some activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.
 
-Sounds awesome, right? Right. In my mind, being in a flow state is the polar opposite of feeling burnt out. Instead of feeling like the task you're working on is draining you, it actually gives you the energy to keep going ad infinitum. But how do we get into this goldilocks state of mind? Well, just like the story of the three bears, we need to find something **just right**. The leading theory in achieving and maintaining flow-state is to reach a balance between challenge and skill in whatever you're doing. This means that just like the optimal pump at the gym, you do your best work when you match your level of adversity for your level of skill. This way, you won't get bored from anything being too easy, but you also won't get tired too quickly because of anything being too hard. I've provided a visual below for where the flow state lies in relation to challenge and skill.
+Sounds awesome, right? Right. In my mind, being in a flow state is the polar opposite of feeling burnt out. Instead of feeling like the task you're working on is draining your will to live, it actually gives you the energy to keep going ad infinitum. But how do we get into this Goldilocks state of mind? Well, just like the story of the three bears, we need to find something **just right**. The leading theory in achieving and maintaining flow-state is to reach a balance between challenge and skill in whatever you're doing. This means that just like the optimal pump at the gym, we do our best work when we match our level of adversity for our level of relevant skill. This way, we won't get bored from anything being too easy, but we also won't get tired too quickly because of anything being too difficult. I've provided a visual (of the *highest quality*) below for where the flow state lies in relation to challenge and skill.
 
 ![FlowStateDiagram](../../flowstatediagram.png)
 
 ## Staying Hypocritical
 
-Speaking of "too hard", don't be. As a perfectionist, I often aim for the asymptotical upper bound of what's possible instead of a reasonable level of accomplishment. This results in me trying to optimize every minute of my day when creating a routine or getting stuck when writing a function in the pursuit of the best possible implementation. This mindset almost always leads me to destruction and it takes a lot of mental fortitude to set realistic expectations for myself, but I almost always get better results from doing so. 
+As a perfectionist, I often aim for the asymptotical upper bound of what's possible instead of a reasonable level of accomplishment. This results in me trying to optimize every minute of my day when creating a routine or getting stuck when writing a function in the pursuit of the best possible implementation. This mindset almost always leads me to destruction and it takes a lot of mental fortitude to set realistic expectations for myself, but I almost always get better results from doing the latter. 
 
-So before sitting down to get some work done, stay hypocritical and set realistic goals for what you want to get done.
+So before sitting down to get some work done, stay hypocritical and set realistic goals for what you want to get done. The saying "shoot for the stars—if you miss, at least you'll hit the Moon" only applies to long term goals. Be **honest** with yourself in-terms of what **you think you can achieve** and operate under this knowledge: not a biased over- or underestimate of your ability or the task at hand. 
 
 ## Implementing Patience
 
-My final method for avoiding burnout involves patience, and lots of it. 
+My final method for avoiding burnout involves patience, and lots of it. Unless you're eating a scone on a beach somewhere in Italy, instant gratification is hard to come by. Sometimes, even when we've perfectly balanced challenge and skill and set realistic goals for ourselves, a lack of patience causes us to give up at the bottom of the exponential growth curve. We all know that nothing worthwhile in life comes quickly and that success is not something that happens over night, but actually implementing these monikers in our day-to-day is hard. So just remember: even microwaveable dinners take a couple minutes before you can (should) eat them. 
+
+# Wrapping-up Our Chipotle Burrito
+
+So in conclusion, burnout is something that occurs when we the task we're engaging in is ill-suited and we want to literally burn our eyelids off after a prolonged period of suffering. Some common examples are lifting weights that are too heavy, performing menial labor that is too simple or easy, or being dropped into the middle of the ocean without a life-vest, forced to swim 3 miles back to shore before nightfall when the sharks are on the hunt. Some ways of preventing burnout are balancing the difficulty of our task with the levels of our relevant skills, setting realistic expectations and goals before diving headfirst into a task, and waiting patiently for your labors to bear the juiciest of fruit. 
+
+And that's my two-sense on the topic of burning out. Hope you found it helpful :)
