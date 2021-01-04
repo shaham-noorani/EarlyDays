@@ -18,7 +18,7 @@ weight: 2
 
 # Humble Beginnings
 
-*This first section is a bit long, so if you get bored half-way through, you can skip to the [tl;dr](/posts/about-me/#tldr) at the end.*
+*[tl;dr](/posts/about-me/#tldr)*
 
 I like to think that my life truly began when I came to Austin, TX in the 6th grade. It was such a big change from what I had been to used to, having lived my whole life prior in the likes of Georgia, Alabama, and Mississippi. My middle school experience wasn’t really all that memorable though—with the main highlights including lots of video games played and my involvement in the production of my 7th and 8th-grade yearbooks.
 
