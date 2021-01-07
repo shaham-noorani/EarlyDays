@@ -38,11 +38,11 @@ The final principle is to stay **patient**. All good things come with time, and 
 
 Everything you consume has a major impact on your life. What you eat, how you entertain yourself, and most importantly, who you spend your time with. Surrounding yourself with **high quality people** is just as, if not more important, than eating right, exercising regularly, and not letting your kids watch R-rated movies when they're 16 and a half. 
 
-Seriously though, if you're surround with motivated people or people who you look up to or aspire to be like, then you're gonna be a hell-of-a-lot more motivated than Jim Stone who spends all his time with crackheads and youngins who sneak into R-rated movies at the movie theater. 
+Seriously though, if you're surround with motivated people or people who you look up to, you're gonna be a hell-of-a-lot more motivated than Joe Shmo who spends all his time with crackheads and 16-and-a-half-year-olds who sneak into R-rated movies at the movie theater. 
 
 # Do what you love (I know)
 
-The age-old advice. One day, I was wondering why I wasn't motivated to write a certain AP World History essay. Then it hit me—I hate writing AP World History essays. The rest of the story doesn't matter (partly because I got a 37 on the paper), but this really changed my expectations around motivation. How could I expect myself to be motivated to do something I didn't want to? Don't beat yourself up over not being motivated to do something you don't want to—we're just not built like that. However, it's always important to look at the bigger picture. A good friend of mine once told me, "you must get past the bad suck, to get the good suck."
+The age-old advice. One day, I was sitting at my desk, wondering why I wasn't motivated to write a certain AP World History essay. Then it hit me—I hate writing AP World History essays. The rest of the story doesn't matter (partly because I got a 37 on the paper), but this really changed my expectations around motivation. How could I expect myself to be motivated to do something I didn't want to? Don't beat yourself up over not being motivated to do something you don't want to—we're just not built like that. However, it's always important to look at the bigger picture. A good friend of mine once told me, "you must get past the bad suck, to get the good suck."
 
 # Think Long Term—All the Time!
 
@@ -50,4 +50,4 @@ I briefly touched on setting goals and thinking about the bigger picture, but I 
 
 # Just Stay Motivated, Duh!
 
-And those are my (factual) opinions on staying motivated! I hope you found any (or all) of it helpful and I'd love to hear some feedback in the comment section I don't have!
+And those are my (wise) opinions on staying motivated! I hope you found any (or all) of it helpful and I'd love to hear some feedback in the comment section that I haven't implemented yet!
