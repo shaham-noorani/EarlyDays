@@ -2,7 +2,7 @@
 author: "Shaham Noorani"
 title: "How To Avoid Burnout"
 date: "2021-01-01"
-description: "Post about how to avoid burnout (flowstate, hypocritically, patience)"
+description: "Post about how to avoid burnout (flowstate, being hypocritical, patience)"
 tags: ["personal-growth"]
 aliases: ["how-to-avoid-burnout"]
 ShowToc: true
