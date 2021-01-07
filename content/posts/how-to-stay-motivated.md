@@ -46,8 +46,8 @@ The age-old advice. One day, I was wondering why I wasn't motivated to write a c
 
 # Think Long Term—All the Time!
 
-I briefly touched on setting goals and thinking about the bigger picture but let me explain why these things are so critical to staying motivated. 
+I briefly touched on setting goals and thinking about the bigger picture, but I want to emphasize why these things are so critical to staying motivated. Setting goals is a **must**. No one goes to the grocery store because they like going to the grocery store. People go to the grocery store so they can make a nice dinner for their family or so that they can enjoy a couple of beers and some bean dip with the bois while watching the game. Unless you're just absolutely infatuated with the act of breathing, you're going to need some solid long term goals to get you through some of the shittier things in life. No one wants to wait 20 minutes in line at Starbucks, but it's way better than a divorce :)
 
 # Just Stay Motivated, Duh!
 
-lmao
+And those are my (factual) opinions on staying motivated! I hope you found any (or all) of it helpful and I'd love to hear some feedback in the comment section I don't have!
