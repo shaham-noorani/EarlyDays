@@ -20,17 +20,17 @@ weight: 1
 
 This is how I like to think of motivation. It's something you can add to, but slowly leaks as time goes on. Now, with every leaky bucket, there are two solutions—well, *kinda*. One option would be to add water very quickly to our bucket. If we add water faster than it can leak out, then problem solved, right? Well, how about we look at our second option. Instead of just avoiding the inevitable by continuing to fill the bucket, what if we instead tried to fix the cracks in the walls? This way, we won't be wasting as much water, and we won't have to worry about filling our bucket as quickly. 
 
-I think what happens to most people is that when looking to "regain motivation", the try to fill their bucket very quickly. Although this may work in the short-term, it becomes unsustainable in the long-run. That is why I consider this a *fix*, not a **solution**—because it does not solve the underlying issue. 
+I think what happens to most people is that when looking to "regain motivation", the try to just refill their bucket very quickly. Although this may work in the short-term, it becomes unsustainable in the long-run. That is why I consider this a *fix*, not a **solution**—because it does not solve the underlying issue. 
 
-It turns out that these holes in our bucket are shared among most people. Although everyone's bucket may not look the same, these small cracks that are common to everyone. 
+It turns out that these holes in our bucket are shared by most people. Although everyone's bucket may not look the same, these small cracks have similarities among everyone. 
 
 # Don't Get Burnt Out
 
-In my opinion, the number 1 "demotivator" or largest crack in most people's buckets comes from getting burnt out. I've got a [whole post](/posts/how-to-avoid-burnout) where I discuss ways to avoid burnout but let me give you a quick run through of the three main ways of avoiding burnout. 
+In my opinion, the number 1 "demotivator" or largest crack in most people's buckets comes from getting **burnt out**. I've got a [whole post](/posts/how-to-avoid-burnout) where I discuss ways to avoid burnout, but let me give you a quick run through of the three main tactics for avoiding burnout. 
 
-The first is to spend as much time as possible in a **flow state**. This will help you maximize not only productivity, but also enjoyment while working. 
+The first is to spend as much time as possible in a **flow state**. This will help you maximize not only productivity, but also enjoyment while working. A flow state can be achieved only when distractions are completely absent and there is a proper balance between the *skill of the doer* and the *difficulty of the thing being done*. 
 
-The second is to be realistic with your goals (obv if you don't have any goals to begin with, there lies your problem). Challenging but attainable goals are like speed boosts in any well made racing game—they make you feel like you're zooming and having fun!
+The second is to **be realistic with your goals** (obv if you don't have any goals to begin with, this is an even bigger problem). Challenging but attainable and well spaced-out goals are like speed boosts in any well made racing game—they keep you engaged and make you feel like you're on psychedelics!
 
 The final principle is to stay **patient**. All good things come with time, and "there is no such thing as something for nothing" - Napoleon Hill, *Think and Grow Rich*. 
 
