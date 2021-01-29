@@ -64,7 +64,7 @@ Do you know those people who just never stop talking about themselves and couldn
 
 > Why talk about what we want? That is childish. Absurd. Of course, you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.
 
-The only way you can get people to care about you is **if you can help them get what they want**. So speak to the *other* person's desires. If you're trying to influence another person to do something, don't tell them what you want and how you are benefitting from it. Show them how you can help them achieve their desires. Back to Carnegie:
+The only way you can get people to care about what you have to say is **if you can help them get what they want**. So speak to the *other* person's desires. If you're trying to influence another person to do something, don't tell them what you want and how you are benefitting from it. Show them how you can help them achieve their desires. Back to Carnegie:
 
 > First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way.
 
