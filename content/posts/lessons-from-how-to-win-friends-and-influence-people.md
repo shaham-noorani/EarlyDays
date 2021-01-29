@@ -22,7 +22,7 @@ Then go and read it. I'm not going to sit here and tell you that I can convey th
 
 # Overview
 
-No book has had more of a grand or lasting impact on how I go about my everyday life than the **absolute** **classic** that is *How to Win Friends and Influence People*. I consider it the **bible** on social interaction and mentality when it comes to interpersonal communication. I've re-read the books **multiples** times and implement lessons taught in it almost **daily**. I attribute the majority of the success (haha) when communicating to what I've learned by reading this book. After an incredibly poor interaction from another person—like getting into a fight with my dad or breaking up with my girlfriend—I'll *re-read* anything I've highlighted in the book and think of ways I could've handled the situation better. Now, let us explore some of what are in my opinion the most important lessons from the book.
+No book has had more of a grand or lasting impact on how I go about my everyday life than the **absolute** **classic** that is *How to Win Friends and Influence People*. I consider it the **bible** on social interaction and mentality when it comes to interpersonal communication. I've re-read the books **multiples** times and implement lessons taught in it almost **daily**. I attribute the majority of the success (haha) when communicating to what I've learned by reading this book. After an incredibly poor interaction with another person—like getting into a fight with my dad or feeling terrible after a conversation—I'll *re-read* anything I've highlighted in the book and think of ways I could've handled the situation better. Now, let us explore some of what are in my opinion the most important lessons from the book.
 
 # My Main Takeaways
 
