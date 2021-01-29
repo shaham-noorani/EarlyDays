@@ -70,7 +70,7 @@ The only way you can get people to care about what you have to say is **if you c
 
 The most basic principle in economics is that of supply and demand. A company makes money by satisfying a desire. So, the next time you're trying to convince someone of something, speak in terms of their wants. Don't make it seem like you're selling them 6 grams of marijuana, show them how they can become happier and free.
 
-## Smiles Save Lives/There is no Sweeter Sound than one's Name
+## Smiles Save Lives/There is no Sweeter Sound than One's Name
 
 These two things are pretty small but I wanted to include them because of how **impactful** they are. The first one highlights the importance of a smile. You have probably heard that just the act of smiling can make you happier. But, try to take this one step further. “There is nothing either good or bad,” said Shakespeare, “but thinking makes it so.” What the playwright is trying to convey here is the **impact** thoughts have on our emotions. Simply put, whether think you're happy or sad: *you're right*. If you want to be more positive and enjoy life to the fullest, start with your mind. 
 
