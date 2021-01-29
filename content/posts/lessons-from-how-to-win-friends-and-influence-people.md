@@ -1,7 +1,7 @@
 ---
 author: "Shaham Noorani"
 title: "Lessons from \"How to Win Friends and Influence People\""
-date: "2021-01-01"
+date: "2021-01-29"
 description: "My analysis and takeaways from Dale Carnegie's, \"How to Win Friends and Influence People\""
 tags: ["personal-growth"]
 aliases: ["how-to-avoid-burnout"]
