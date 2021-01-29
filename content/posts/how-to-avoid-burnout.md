@@ -27,7 +27,7 @@ With a quick Google search, you can find this definition:
 
 > Burnout is a state of emotional, physical, and mental exhaustion caused by excessive and prolonged stress. It occurs when you feel overwhelmed, emotionally drained, and unable to meet constant demands.
 
-So in layman's terms, "burnout" occurs when the going gets **unbearably** tough and our body/mind can't keep up. In my case, this often occurred from me metaphorically slamming my head against a wall and then eventually passion out from blood loss. I like this metaphor because it highlights what I think are the two main causes of burnout: lack of instant gratification and constant overexertion. When you make love to a wall with your forehead in a woodpecker-esque manner, not only are there no immediate signs of progress (save the blood dripping from your head), but the amount of work (not the physics kind) you're putting in is not sustainable for a long period of time. 
+So in layman's terms, "burnout" occurs when the going gets **unbearably** tough and our body/mind can't keep up. In my case, this often occurred from me metaphorically slamming my head against a wall and then eventually passing out from blood loss. I like this metaphor because it highlights what I think are the two main causes of burnout: lack of instant gratification and constant overexertion. When you make love to a wall with your forehead in a woodpecker-esque manner, not only are there no immediate signs of progress (save the blood dripping from your head), but the amount of work (not the physics kind) you're putting in is not sustainable for a long period of time. 
 
 # My 3 Ways of Avoiding Burnout
 
