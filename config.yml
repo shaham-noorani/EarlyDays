@@ -26,15 +26,13 @@ params:
   defaultTheme: dark
   ShowShareButtons: true
   displayFullLangName: true
-  # images: ""
-  # assets:
-  #   favicon: '<path / external url>'
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
       Welcome to my blog where I share my hot-takes on **productivity**, the world of **software 
       engineering**, and whatever else **I feel like talking about**, as well as events from my **day-to-day**.
+      Also, feel free to email me with any feedback or questions using the mail icon below!
 
   socialIcons:
     - name: linkedin
@@ -43,6 +41,8 @@ params:
       url: "https://github.com/shahamn"
     - name: drive
       url: "https://drive.google.com/file/d/1HdajkjNnWgyAM9TSPyZzfV1rot6PwwQl/view?usp=sharing"
+    - name: email
+      url: "mailto:shahamnoorani@gmail.com"
 
 taxonomies:
   category: categories
