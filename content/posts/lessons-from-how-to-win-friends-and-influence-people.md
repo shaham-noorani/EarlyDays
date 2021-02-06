@@ -8,7 +8,7 @@ aliases: ["how-to-avoid-burnout"]
 ShowToc: true
 TocOpen: false
 enableEmoji: true
-weight: 1
+weight: 3
 # draft: true
 ---
 

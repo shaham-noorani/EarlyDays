@@ -8,7 +8,7 @@ aliases: ["why-I-hated-myself"]
 ShowToc: true
 TocOpen: true
 enableEmoji: true
-weight: 2
+weight: 6
 ---
 
 <!--blurb-->

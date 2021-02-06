@@ -8,7 +8,7 @@ aliases: ["how-to-stay-motivated"]
 ShowToc: true
 TocOpen: false
 enableEmoji: true
-weight: 1
+weight: 2
 # draft: true
 ---
 

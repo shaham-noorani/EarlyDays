@@ -8,11 +8,11 @@ aliases: ["how-to-be-a-rockstar-developer"]
 ShowToc: true
 TocOpen: true
 enableEmoji: true
-weight: -1
+weight: 5
 ---
 
 <!-- blurb -->
-*My opinions (as a freshman in college) on how to be an effective and highly coveted software engineer.*
+*My opinions (as a freshman in CS) on how to be an effective and highly coveted software engineer.*
 
 <!--more-->
 
