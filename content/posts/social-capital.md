@@ -1,7 +1,7 @@
 ---
 author: "Shaham Noorani"
 title: "The Power of Social Capital"
-date: "2021-03-13"
+date: "2021-05-29"
 description: "Post about how you start with people, not skills or accomplishments"
 tags: ["personal-growth"]
 aliases: ["the-power-of-social-capital"]
@@ -13,7 +13,7 @@ draft: true
 ---
 
 <!--blurb-->
-*My thoughts on the notion that you need to have a plan for the future to be successful. *
+*It's not what you know, but who*
 
 <!--more-->
 # The Status Quo
