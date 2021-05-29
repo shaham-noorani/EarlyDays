@@ -69,7 +69,7 @@ So I gave up.
 
 And just like that, I was done. I didn't want to be with her anymore. It just didn't seem worth it. All I could see were cons and it got to the point where I couldn't answer the question of why I was dating her. 
 
-Now, of course we still saw each other all the time in class and around the dorm hall. And slowly, it dawned on me: I fucked up. This ended up being one of the greatest learning opportunities of my entire life. Dale Carnegie says “any fool can criticize, complain, and condemn—and most fools do. But it takes character and self-control to be understanding and forgiving.” I was critical, I was lacking in self control, and I was neither understanding nor forgiving. It hit me like a brick wall: I fucked up. My days from then we're filled with self-reflection, regret, and lots of fucking crying. 
+Now, of course we still saw each other all the time in class and around the dorm hall. And slowly, it dawned on me: I fucked up. This ended up being one of the greatest learning opportunities of my entire life. Dale Carnegie says “any fool can criticize, complain, and condemn—and most fools do. But it takes character and self-control to be understanding and forgiving.” I was critical, I was lacking in self control, and I was neither understanding nor forgiving. It hit me like a brick wall: I fucked up. My days from then were filled with self-reflection, regret, and lots of fucking crying. 
 
 But I knew I had to make it right. So I did everything I could. I apologized, I told her I was wrong, and I begged for her to take me back. 
 
