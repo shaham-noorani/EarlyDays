@@ -38,9 +38,9 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/shahamn/"
     - name: github
-      url: "https://github.com/shahamn"
+      url: "https://github.com/shaham-noorani"
     - name: drive
-      url: "https://drive.google.com/file/d/1HdajkjNnWgyAM9TSPyZzfV1rot6PwwQl/view?usp=sharing"
+      url: "https://drive.google.com/file/d/13zqcPGBHg-k1TOgfG6m5U0K2sWdPr6wg/view?usp=sharing"
     - name: email
       url: "mailto:shahamnoorani@gmail.com"
 
