@@ -9,7 +9,6 @@ ShowToc: true
 TocOpen: false
 enableEmoji: true
 weight: 2
-# draft: true
 ---
 
 <!--blurb-->
