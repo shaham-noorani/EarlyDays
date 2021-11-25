@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on EarlyDays</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on EarlyDays</description>
+    <title>personal-growth on EarlyDays</title>
+    <link>/tags/personal-growth/</link>
+    <description>Recent content in personal-growth on EarlyDays</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>/posts/about-me/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/about-me/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;em&gt;An introduction into who I am, where my experiences and passions lie, and what the purpose of this blog is.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/personal-growth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Stay Motivated</title>
       <link>/posts/how-to-stay-motivated/</link>
@@ -47,16 +37,6 @@
     </item>
     
     <item>
-      <title>What I learned From My First Relationship</title>
-      <link>/posts/what-i-learned-from-my-first-relationship/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/what-i-learned-from-my-first-relationship/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;em&gt;The lessons I&amp;rsquo;ve learned during my first relationship and the changes I&amp;rsquo;ve implemented&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>How To Avoid Burnout</title>
       <link>/posts/how-to-avoid-burnout/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -64,16 +44,6 @@
       <guid>/posts/how-to-avoid-burnout/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;em&gt;My advice and expertise on how to avoid burnout and keep on keepin&#39; on!&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>How to be a Rockstar Developer (coming from a freshman in college)</title>
-      <link>/posts/how-to-be-a-rockstar-developer/</link>
-      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/how-to-be-a-rockstar-developer/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;em&gt;My opinions (as a freshman in CS) on how to be an effective and highly coveted software engineer.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

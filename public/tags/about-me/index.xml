@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about me on EarlyDays</title>
+    <link>/tags/about-me/</link>
+    <description>Recent content in about me on EarlyDays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/posts/about-me/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about-me/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;An introduction into who I am, where my experiences and passions lie, and what the purpose of this blog is.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What I learned From My First Relationship</title>
+      <link>/posts/what-i-learned-from-my-first-relationship/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-i-learned-from-my-first-relationship/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;The lessons I&amp;rsquo;ve learned during my first relationship and the changes I&amp;rsquo;ve implemented&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why I Hated Myself and How I Stopped</title>
+      <link>/posts/why-i-hated-myself/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/why-i-hated-myself/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;A story about why I used to hate myself and what mindset changes I had to implement to stop.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

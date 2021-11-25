@@ -1,136 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Blog</title>
+    <title>EarlyDays</title>
     <link>/</link>
-    <description>Recent content on My Blog</description>
+    <description>Recent content on EarlyDays</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 Sep 2020 11:30:03 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Papermod - Installation</title>
-      <link>/posts/papermod/papermod-installation/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0530</pubDate>
+      <title>About Me</title>
+      <link>/posts/about-me/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/papermod/papermod-installation/</guid>
-      <description>Read Install and Update instructions here</description>
+      <guid>/posts/about-me/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;An introduction into who I am, where my experiences and passions lie, and what the purpose of this blog is.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Papermod - Features</title>
-      <link>/posts/papermod/papermod-features/</link>
-      <pubDate>Wed, 16 Sep 2020 11:30:03 +0530</pubDate>
+      <title>How To Stay Motivated</title>
+      <link>/posts/how-to-stay-motivated/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/papermod/papermod-features/</guid>
-      <description>Get known about All Features in PaperMod</description>
+      <guid>/posts/how-to-stay-motivated/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;My personal strategy and tactics on how to stay motivated.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Lessons from &#34;How to Win Friends and Influence People&#34;</title>
+      <link>/posts/lessons-from-how-to-win-friends-and-influence-people/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>/posts/lessons-from-how-to-win-friends-and-influence-people/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;My analysis and takeaways from Dale Carnegie&amp;rsquo;s, &amp;ldquo;How to Win Friends and Influence People&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide For L2</title>
-      <link>/posts/markdown-syntax.l2/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Is It OK to Not Have a Plan?</title>
+      <link>/posts/is-it-ok-to-not-have-a-plan/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/markdown-syntax.l2/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>/posts/is-it-ok-to-not-have-a-plan/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;*My thoughts on the notion that you need to have a plan for the future to be successful. *&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide For RTL</title>
-      <link>/posts/markdown-syntax.l3/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>What I learned From My First Relationship</title>
+      <link>/posts/what-i-learned-from-my-first-relationship/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/markdown-syntax.l3/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>/posts/what-i-learned-from-my-first-relationship/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;The lessons I&amp;rsquo;ve learned during my first relationship and the changes I&amp;rsquo;ve implemented&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Papermod - Icons</title>
-      <link>/posts/papermod/papermod-icons/</link>
-      <pubDate>Thu, 17 Sep 2020 11:30:03 +0530</pubDate>
+      <title>How To Avoid Burnout</title>
+      <link>/posts/how-to-avoid-burnout/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/papermod/papermod-icons/</guid>
-      <description>List of all Icons supported by PaperMod</description>
+      <guid>/posts/how-to-avoid-burnout/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;My advice and expertise on how to avoid burnout and keep on keepin&#39; on!&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>How to be a Rockstar Developer (coming from a freshman in college)</title>
+      <link>/posts/how-to-be-a-rockstar-developer/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
+      <guid>/posts/how-to-be-a-rockstar-developer/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;My opinions (as a freshman in CS) on how to be an effective and highly coveted software engineer.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Why I Hated Myself and How I Stopped</title>
+      <link>/posts/why-i-hated-myself/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>/l2/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/l2/archives/</guid>
-      <description>archives</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/archives/</guid>
-      <description>archives</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SearchL2</title>
-      <link>/search.l2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/search.l2/</guid>
-      <description></description>
+      <guid>/posts/why-i-hated-myself/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;A story about why I used to hate myself and what mindset changes I had to implement to stop.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
