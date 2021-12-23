@@ -9,7 +9,6 @@ ShowToc: true
 TocOpen: false
 enableEmoji: true
 weight: 1
-# draft: true
 ---
 
 <!--blurb-->
@@ -36,6 +35,6 @@ By actively exploring, we are more likely to choose a well-fitting career **and*
 
 I believe that to become a red-ass engineer, you should create a very strong foundation of core engineering and softs kills, go knee-deep into a variety of different engineering disciplines that interest you before committing yourself to just one, and suppress the fear associated with taking a career risk and "having to starting over", because every step of the way, you're developing your most quintessential asset—range. 
 
-#### Links
+### Links
 1. [The Top Soft Skills for Engineers (Glassdoor)](https://www.glassdoor.com/blog/guide/engineering-soft-skills/)
 2. The book this post was inspired by: [*Range* by David Epstein](https://davidepstein.com/the-range/)
