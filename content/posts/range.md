@@ -22,7 +22,7 @@ Most engineers call themselves an "X Engineer" because it describes **what they 
 
 There's a popular mantra that states, "you get hired for your hard skills, but keep your job and get promoted for you soft skills." Most discipline-specific hard-skills can be learned relatively quickly, but fundamental engineering skills, and even more so vocational soft skills, take years to master, but can be applied in innumerably more settings. This is why it is crucial to start working towards mastering these early on.
 
-For a list of important general skills for engineers, you can visit the first [link](https://google.com) at the end of this post. 
+For a list of important general skills for engineers, reference the links section at the end of this post. 
 
 # College Should Be a Time To Explore
 
@@ -35,3 +35,7 @@ By actively exploring, we are more likely to choose a well-fitting career **and*
 # Main Takeaways
 
 I believe that to become a red-ass engineer, you should create a very strong foundation of core engineering and softs kills, go knee-deep into a variety of different engineering disciplines that interest you before committing yourself to just one, and suppress the fear associated with taking a career risk and "having to starting over", because every step of the way, you're developing your most quintessential asset—range. 
+
+#### Links
+1. [The Top Soft Skills for Engineers (Glassdoor)](https://www.glassdoor.com/blog/guide/engineering-soft-skills/)
+2. The book this post was inspired by: [*Range* by David Epstein](https://davidepstein.com/the-range/)
