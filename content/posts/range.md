@@ -34,4 +34,4 @@ By trying a lot of things, we more likely to choose a more fitting career **and*
 
 # Main Takeaways
 
-I believe that to become an red-ass engineer, you should create a very strong foundation of general skills, go knee-deep into a variety of different engineering disciplines while you have the time to explore, and fight the fear of taking a career risk and "having to starting over", because every step of the way, you're developing most quintessential asset—range. 
+I believe that to become a red-ass engineer, you should create a very strong foundation of general skills, go knee-deep into a variety of different engineering disciplines while you have the time to explore, and fight the fear of taking a career risk and "having to starting over", because every step of the way, you're developing most quintessential asset—range. 
