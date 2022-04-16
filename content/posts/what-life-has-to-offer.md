@@ -40,3 +40,9 @@ But I don't want to be that guy. I'd rather be Shaham, that guy with the cute wi
 # What I Want
 
 I read in a book once that you should always speak in terms of the other person's interests, so writing about myself here is directly opposite of that. But I hope that by reading this next section, you might reassess your life just a little bit. 
+
+These days, I spend a lot of time thinking about what I want in life. I've always known that I wanted to settle down and have kids, but what about until then? 
+
+I've been extremely lucky in two specific ways. The first would be in terms of meeting the woman of my dreams. She makes me so immensely happy by just being around her and I would never be the man I am today if it wasn't for her. The second is in the people that I've found around myself. I recently joined a student organization on campus, and some of the conversations I've had with the people in it have been just amazing. 
+
+Finally, I always think back to my time as a summer camp counselor or my part-time job as a coding instructor for children, or my work at a charity software company. When I do, I'm, without fail, always rushed with such a sense of fulfillment and purpose. Nothing in my life has been more satisfying than the work I've done for betterment of others. 
