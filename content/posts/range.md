@@ -30,7 +30,7 @@ For a list of important general skills for engineers, reference the links sectio
 
 There are many things you should not rush into, and you career is most certainly one of them. As college students, we're presented with many opportunities, but I believe the greatest of them all is the opportunity to explore. Just like how you get *way* too many samples before choosing a flavor at the ice cream parlor, I think this is how we should approach choosing an engineering discipline. Not just comparing the facts and figures, but actually "tasting" (or experiencing) each one. I understand that this can seem incredibly cumbersome and daunting, so I've got a dual-faceted response. 
 
-First is a question: would you rather spend another 4 years pursuing an exciting new career, or 40 years engaging in a lackluster one? 
+First is a question: would you rather spend an extra 4 years pursuing an exciting new career, or 40 years engaging in a lackluster one? 
 
 ![Roger](https://lh3.googleusercontent.com/proxy/WnU9OjfttVKQ6KoHZhhQGcVvVcMWmFrBRtiIzYgSPgtPUwLxx3XMRlL_KfNDfECFgC_DgHKSuLq6G3W-zSycMYO3TzDQgfPGBQ)
 
