@@ -46,8 +46,10 @@ You can't attribute a bad life to bad planning. As long as you're honest about t
 
 # Comparison
 
-The really interesting thing about graduation is that you have over 100,000 all starting something new at the exact same time. I think there are typically 2 key misunderstandings about this situation though. Number 1: life is not a race. You don't want to be the first to finish (hopefully) and everyone has a different finish line. Number 2: straight paths are way worse than windy ones. It's usually the people that pursue the linear paths that are the most afraid of life, and as such, hope to live in autopilot—making few decisions for themselves and instead hoping that society is right about what will make them happy.
+The really interesting thing about graduation is that you have over 100,000 people all starting anew at the exact same time. I think there are typically 2 key misunderstandings about this situation. Number 1: life is a race. Trust me, you don't want to be the first to finish. Plus, everyone has a different finish line. Life is not a race, it's a sketchbook that you draw in every day and hope that eventually you make something you cna show your mom. Number 2: straight paths are better than windy ones. It's usually the people that pursue the linear paths that are the most afraid of life, and as such, hope to live in autopilot—making few decisions for themselves and instead hoping that society is right about what will make them happy. Take the windy path. Try new things, explore, take risks, experience huge wins and bigger failures, cry, laugh, love—dude that is LIFE!
 
 # Today and Tomorrow
 
-The most important things are today and tomorrow. If today sucks and tomorrow sucks, then your life sucks. It's that simple. Don't pursue a life where today and tomorrow have to suck so that in 5 years you'll be happy. Focus on making every day happy.
+The most important things are today and tomorrow. If today sucks and tomorrow sucks, then your life sucks. It's that simple. Don't pursue a life where today and tomorrow have to suck so that in 5 years you'll achieve that one thing that is supposed to make you happy. What if it doesn't?
+
+I think it's much less risky to focus on today and tomorrow, and it stops you from making excuses. If you want to do something, you start doing it today, and tomorrow you reevaluate. If you like it, do it better. If you don't, find something new or do what you already love.
