@@ -2,7 +2,7 @@
 author: 'Shaham Noorani'
 title: 'How to Approach Life After College'
 date: '2023-08-05'
-description: 'talk about how to approach life after college and how people must be feeling before graduation'
+description: 'How to look at life, what mindset to have, and how to deal with the comparison game'
 tags: ['personal growth']
 aliases: ['how-to-approach-life-after-college']
 ShowToc: true
